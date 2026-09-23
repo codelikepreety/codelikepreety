@@ -1,76 +1,111 @@
 <div align="center">
 
-<!-- GLITCH NAME via SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=3000&pause=5000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=ANIMA+MISHRA" alt="Anima Mishra" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4c1d95,100:0e4f5c&height=200&section=header&text=ANIMA%20MISHRA&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&descColor=06B6D4" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&height=30&lines=%2F%2F+Software+Engineer+%26+Web+Developer" alt="title" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&height=32&lines=Building+with+the+MERN+stack;Integrating+AI+%2F+ML+into+real+products;Open+to+SWE+%2F+Full+Stack+roles" alt="typing subtitle" />
+
+<br/><br/>
+
+![Final Year CSE](https://img.shields.io/badge/Final%20Year%20CSE-a855f7?style=for-the-badge&labelColor=1a0533&color=4c1d95&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-06b6d4?style=for-the-badge&labelColor=001a22&color=0e4f5c)
+![AI/ML Integration](https://img.shields.io/badge/AI%2FML%20Integration-fbbf24?style=for-the-badge&labelColor=1a0f00&color=7c4600)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&labelColor=001a0d&color=14532d)
+
+</div>
 
 <br/>
 
-![3rd Year CSE](https://img.shields.io/badge/3rd%20Year%20CSE-a855f7?style=flat-square&labelColor=1a0533&color=4c1d95&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-06b6d4?style=flat-square&labelColor=001a22&color=0e4f5c)
-![Open to Collab](https://img.shields.io/badge/Open%20to%20Collab-22c55e?style=flat-square&labelColor=001a0d&color=14532d)
-![Learning ML](https://img.shields.io/badge/Learning%20ML-fbbf24?style=flat-square&labelColor=1a0f00&color=7c4600)
-
-</div>
-
----
-
-<!-- MARQUEE -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1&pause=99999&color=7C3AED&center=true&vCenter=true&width=800&height=24&lines=React+%E2%9C%A6+Node.js+%E2%9C%A6+MongoDB+%E2%9C%A6+Express+%E2%9C%A6+Python+%E2%9C%A6+Java+%E2%9C%A6+MySQL+%E2%9C%A6+ML+%E2%9C%A6+Git+%E2%9C%A6+REST+APIs+%E2%9C%A6+DSA" alt="stack" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1&pause=99999&color=7C3AED&center=true&vCenter=true&width=800&height=24&lines=React+%E2%9C%A6+Node.js+%E2%9C%A6+Express+%E2%9C%A6+MongoDB+%E2%9C%A6+FastAPI+%E2%9C%A6+Python+%E2%9C%A6+Java+%E2%9C%A6+TypeScript+%E2%9C%A6+Scikit-learn+%E2%9C%A6+DSA" alt="stack marquee" />
 </div>
 
 ---
 
-## 🖥️ `$ cat about.json`
+### `$ cat about.json`
 
 ```json
 {
   "name": "Anima Mishra",
-  "year": "3rd Year CSE",
-  "learning": ["DSA", "Full Stack", "ML"],
-  "status": "leveling up daily 🔥",
-  "available_for": "internships, collabs, open source"
+  "location": "Kolkata, West Bengal, India",
+  "education": "B.Tech CSE (2023 – 2027)",
+  "focus": ["Full Stack Development (MERN)", "AI/ML Integration", "REST APIs"],
+  "currently_targeting": ["Full Stack Developer", "Backend Developer", "SWE Roles", "AI/ML Engineer", "Interships"]
 }
 ```
 
 ---
 
-## 🛠️ `$ ls tech-stack/`
+### `$ ls tech-stack/`
 
-<!-- ROW 1: Frontend -->
+<table align="center" border="0">
+<tr>
+<td valign="top" width="50%">
+
 **Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</td>
+<td valign="top" width="50%">
 
 **Languages**
+<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Databases**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools & DevOps**
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**ML & Data**
+<br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Tools & Platforms**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 `$ git log --graph --all`
+### `$ git log --graph --all`
 
 <div align="center">
 
@@ -86,11 +121,11 @@
 
 ---
 
-## 📫 `$ ./contact.sh`
+### `$ ./contact.sh`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-tech.is.fashion30%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech.is.fashion30@gmail.com)
+[![Email](https://img.shields.io/badge/Email-animamishra151%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animamishra151@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anima--mishra-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anima-mishra-bb519026b)
 &nbsp;
@@ -98,8 +133,8 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=2000&pause=1000&color=2a2a4a&center=true&vCenter=true&width=400&height=24&lines=crafted+with+obsession+%C2%B7+%3C%2Fanima%3E" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4f5c,50:4c1d95,100:1a0533&height=100&section=footer" alt="footer wave" />
 </div>
