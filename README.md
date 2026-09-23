@@ -21,7 +21,8 @@
 
 ---
 
-### `$ cat about.json`
+
+## 🧑‍💻 About Me
 
 ```json
 {
@@ -35,103 +36,113 @@
 
 ---
 
-### `$ ls tech-stack/`
 
-<table align="center" border="0">
+## 🧰 Tech Stack
+
+<table align="center" border="0" cellspacing="12">
 <tr>
-<td valign="top" width="50%">
+<td align="center" valign="top">
 
 **Frontend**
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+<br/><br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td align="center" valign="top">
 
-**Languages**
-<br/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Databases**
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Backend**
+<br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td align="center" valign="top">
 
-**ML & Data**
-<br/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+**Languages**
+<br/><br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td align="center" valign="top">
+
+**Databases**
+<br/><br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+**ML & Data**
+<br/><br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+
+</td>
+<td align="center" valign="top">
 
 **Tools & Platforms**
-<br/>
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br/><br/>
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:0e4f5c&height=3&width=100%25" width="100%"/>
 
-### `$ git log --graph --all`
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codelikepreety&show_icons=true&theme=transparent&title_color=a855f7&text_color=888899&icon_color=06b6d4&border_color=1e1e3f&bg_color=0d0d1a" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=codelikepreety&show_icons=true&theme=transparent&title_color=a855f7&text_color=c7c7d9&icon_color=22d3ee&border_color=4c1d95&bg_color=0d0d1a&hide_border=false&rank_icon=github" height="175" alt="GitHub Stats" />
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=codelikepreety&theme=transparent&ring=a855f7&fire=f97316&currStreakLabel=06b6d4&sideLabels=888899&dates=444466&border=1e1e3f&background=0d0d1a" height="165" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=codelikepreety&theme=transparent&ring=a855f7&fire=f97316&currStreakLabel=22d3ee&sideLabels=c7c7d9&dates=8888a3&border=4c1d95&background=0d0d1a" height="175" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codelikepreety&theme=react-dark&bg_color=0d0d1a&color=a855f7&line=06b6d4&point=fbbf24&area=true&hide_border=true" width="100%" alt="Commit Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codelikepreety&theme=react-dark&bg_color=0d0d1a&color=a855f7&line=22d3ee&point=fbbf24&area=true&hide_border=true" width="100%" alt="Commit Activity Graph" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e4f5c,100:4c1d95&height=3&width=100%25" width="100%"/>
 
-### `$ ./contact.sh`
+<br/>
+
+## 📫 Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-animamishra151%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animamishra151@gmail.com)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anima--mishra-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anima-mishra-bb519026b)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-codelikepreety-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codelikepreety)
 
-</div>
 
 <br/>
 
